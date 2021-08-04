@@ -15,7 +15,7 @@ The project's tokenomics work differently to the usual token or cryptocurrency. 
 
 ### Mechanics 
 
-The mechanics of BabySafeMoon are in-place with support of unique tokenomics to provide investors and the market with a complete token trading system geared towards achieving the goals of the project and the community. For more information on this please visit the [whitepaper](https://baby-safemoon.gitbook.io/babysafemoon/) 
+The mechanics of BabySafeMoon are in-place with support of unique tokenomics to provide investors and the market with a complete token trading system geared towards achieving the goals of the project and the community. For more information on this please visit the [whitepaper](https://baby-safemoon.gitbook.io/babysafemoon/).
 
 ### For questions and answers
 
